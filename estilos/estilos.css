@@ -3,3 +3,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+.menu{
+    padding: 0;
+    margin: 20px auto;
+    list-style: none;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
