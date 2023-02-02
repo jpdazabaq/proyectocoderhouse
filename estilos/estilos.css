@@ -3,13 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #fff8f5;
+    font-family: 'Montserrat', sans-serif;
+}
 .menu{
     padding: 0;
     margin: 20px auto;
     list-style: none;
     text-align: center;
+    font-size: x-large;
 }
 .menu li{
     display: inline-block;
     text-align: center;
+    font-weight: 600; 
 }
